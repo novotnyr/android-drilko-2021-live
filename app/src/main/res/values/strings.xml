@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dr. Iľko</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="cities">
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Žilina</item>
+        <item>Bratislava</item>
+        <item>Vranov nad Topľou</item>
+        <item>Humenné</item>
+        <item>Bardejov</item>
+        <item>Trebišov</item>
+        <item>Rožňava</item>
+        <item>Stropkov</item>
+        <item>Svidník</item>
+    </array>
+</resources>
